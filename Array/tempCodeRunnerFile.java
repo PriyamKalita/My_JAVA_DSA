@@ -1,0 +1,1 @@
+currentSum = 0;
